@@ -15,5 +15,3 @@ The project aims to develop different models to solve binary classification prob
 - [Pretrained CNN - INC](./Pretrained_CNN_inc_bm.ipynb)
 - [Ensemble](./Ensemble_bm.ipynb)
 
-# Credits
-@seraogianluca, @ragnar1002
